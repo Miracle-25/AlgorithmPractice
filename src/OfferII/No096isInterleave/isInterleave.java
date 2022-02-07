@@ -41,6 +41,7 @@ public class isInterleave {
         }else if (s3.length()!=s1.length()+s2.length()){
             return false;
         }
+        return true;
     }
 
     public static void main(String[] args) {
